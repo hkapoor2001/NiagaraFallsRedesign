@@ -867,7 +867,7 @@ header #row2 {
   justify-content: flex-start;
   align-content: flex-end;
 }
-#feelthepower #circlehero2div #circlehero2 {
+#feelthepower #circlehero2div #bridgev2 {
   width: 60%;
   height: 60%;
 }
@@ -1615,21 +1615,21 @@ header #row2 {
     padding-bottom: 0%;
   }
   #contactus #contact1 {
-    font-size: 25px;
+    font-size: 20px;
     padding-bottom: 0%;
   }
   #contactus #contact2 {
-    font-size: 28px;
+    font-size: 20px;
     padding-bottom: 0%;
   }
   #contactus #contact3 {
-    font-size: 30px;
+    font-size: 25px;
     padding-bottom: 0%;
   }
   #contactus #contactusicondiv {
     display: flex;
     justify-content: space-between;
-    font-size: 100px;
+    font-size: 60px;
     padding-bottom: 0%;
   }
   #contactus #contactusgrid {

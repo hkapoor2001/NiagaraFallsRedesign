@@ -56,6 +56,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/bridgev2.png" : {
+      "ft" : 32768,
+      "iS" : 1316822,
+      "oA" : 0,
+      "oAP" : "\/bridgev2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/circlehero1.png" : {
       "ft" : 32768,
       "iS" : 426320,
